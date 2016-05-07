@@ -51,3 +51,4 @@ atlassian*
 
 /.vagrant
 /ansible
+Vagrantfile
