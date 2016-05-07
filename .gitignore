@@ -48,3 +48,6 @@ atlassian*
 !/var/.htaccess
 /vendor/*
 !/vendor/.htaccess
+
+/.vagrant
+/ansible
